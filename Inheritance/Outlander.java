@@ -1,4 +1,4 @@
-package Inheritance.InheritanceChallenge;
+
 
 
 public class Outlander extends Car {
