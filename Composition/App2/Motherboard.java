@@ -1,4 +1,4 @@
-package Composite2;
+
 
 public class Motherboard {
     private String model;
