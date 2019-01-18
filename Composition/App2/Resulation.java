@@ -1,4 +1,4 @@
-package Composite2;
+
 
 public class Resulation {
     private int width;
