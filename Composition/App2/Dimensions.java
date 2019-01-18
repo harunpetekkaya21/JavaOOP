@@ -1,4 +1,3 @@
-package Composite2;
 
 public class Dimensions {
     private int width;
