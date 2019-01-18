@@ -1,5 +1,3 @@
-package Composite2;
-
 
 public class Case {
     private String model;
